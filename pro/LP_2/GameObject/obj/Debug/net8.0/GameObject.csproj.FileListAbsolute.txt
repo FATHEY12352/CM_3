@@ -1,0 +1,14 @@
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\bin\Debug\net8.0\GameObject.exe
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\bin\Debug\net8.0\GameObject.deps.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\bin\Debug\net8.0\GameObject.runtimeconfig.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\bin\Debug\net8.0\GameObject.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\bin\Debug\net8.0\GameObject.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.AssemblyInfoInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.AssemblyInfo.cs
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.csproj.CoreCompileInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\refint\GameObject.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\GameObject.genruntimeconfig.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_2\GameObject\obj\Debug\net8.0\ref\GameObject.dll
