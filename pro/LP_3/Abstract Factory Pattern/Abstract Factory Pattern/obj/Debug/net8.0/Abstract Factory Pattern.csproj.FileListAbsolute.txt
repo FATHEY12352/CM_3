@@ -1,0 +1,14 @@
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\net8.0\Abstract Factory Pattern.exe
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\net8.0\Abstract Factory Pattern.deps.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\net8.0\Abstract Factory Pattern.runtimeconfig.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\net8.0\Abstract Factory Pattern.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\net8.0\Abstract Factory Pattern.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.AssemblyInfo.cs
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\refint\Abstract Factory Pattern.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\Abstract Factory Pattern.genruntimeconfig.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_3\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\net8.0\ref\Abstract Factory Pattern.dll
