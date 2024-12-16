@@ -1,0 +1,14 @@
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\bin\Debug\net8.0\LAP_4.exe
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\bin\Debug\net8.0\LAP_4.deps.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\bin\Debug\net8.0\LAP_4.runtimeconfig.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\bin\Debug\net8.0\LAP_4.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\bin\Debug\net8.0\LAP_4.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.AssemblyInfoInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.AssemblyInfo.cs
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.csproj.CoreCompileInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\refint\LAP_4.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\LAP_4.genruntimeconfig.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\pro\LP_4\LAP_4\obj\Debug\net8.0\ref\LAP_4.dll
